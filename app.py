@@ -8,7 +8,7 @@ from pydub import AudioSegment
 # 1. TUS CREDENCIALES
 cliente_groq = Groq(api_key="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")
 FISH_API_KEY = "be69c5fec5b540019d7692f7d0998dbb"
-ID_VOZ = "9f708cd9d8184a5c9781da535149e650"  # Tu ID de voz de Goku/Woody
+ID_VOZ = "134d19eda4c64cb0b2a84d93e327be3b"  # Tu ID de voz de Goku/Woody
 
 # --- 🧸 CONFIGURACIÓN DEL PERSONAJE ---
 NOMBRE_PERSONAJE = "Woody"
